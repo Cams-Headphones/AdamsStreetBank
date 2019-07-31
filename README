@@ -1,2 +1,4 @@
-<p>Our goal is to take as many transactions as possible from the Kaggle bank transaction dataset, one hot encode the data, and use min/max scaling to get every value into a value between zero and one, split data into train/test, then see if we can predict if a transaction is a fraudulent one (fraud) or not (not fraud) based on the nine colums of data provided in the Kaggle data set.  We will first use XG Boost to run the data.  We will then attempt to improve our results by using other activation functions.</p>
+####Group Adams Street Bank Plan
+
+Our goal is to take as many transactions as possible from the Kaggle bank transaction dataset, one hot encode the data, and use min/max scaling to get every value into a value between zero and one, split data into train/test, then see if we can predict if a transaction is a fraudulent one (fraud) or not (not fraud) based on the nine colums of data provided in the Kaggle data set.  We will first use XG Boost to run the data.  We will then attempt to improve our results by using other activation functions
 
